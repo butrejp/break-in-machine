@@ -13,7 +13,7 @@ you can see the performance of my modification in this video:
 https://www.youtube.com/watch?v=OjT_l00o8KI
 
 
-BOM:
+BOM:  
 6x m3 socket cap screws - 15mm length  
 2x m3 socket cap screws - 6mm length  
 8x m3 grub screws, approx 10mm in length  
