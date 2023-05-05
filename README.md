@@ -1,7 +1,6 @@
 # break-in-machine
-currently exists as a modification to the Senac Breaker, both hotrodding it and fixing inadequacies with the original design
 
-this is a modification for the Senac Breaker break in machine allowing up to 2000 actuations per minute. 
+this is a modification for the Senac Breaker break in machine allowing up to 2000 actuations per minute. some day far into the future this will be a complete package.  
 
 The Senac Breaker is available here:
 
