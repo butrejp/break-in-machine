@@ -18,11 +18,16 @@ BOM:
 2x m3 socket cap screws - 6mm length  
 8x m3 grub screws, approx 10mm in length  
 37mm geared motor 
+2x washers (included)  
+4x pusher plates (included)  
+1x motor plate (included)  
+1x cam (included)  
 
+everything else is currently original senac parts  
 
 for the geared motor I used the 1000 rpm variant of this one:( https://www.amazon.com/dp/B0745VWJ54 ).  you can pick and choose here, but fast is nice.  everything else is original hardware.
 
-when assembling, use a 6mm or letter B drill to clean up inside the shaft hole.  it doesn't have to be super tight, but you can't just run a quarter inch drill through it and expect it to work out.  
+when assembling, use a 6mm or letter B drill to clean up inside the shaft hole.  it doesn't have to be super tight, but you can't just run a quarter inch drill through it and expect it to work out.  use two of the washers included here to space the bearings from the cam.
 
 
 the 6x 15mm screws are to hold the motor in  
