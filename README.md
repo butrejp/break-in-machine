@@ -14,12 +14,9 @@ https://www.youtube.com/watch?v=OjT_l00o8KI
 
 
 BOM:
-6x m3 socket cap screws - 15mm length
-
-2x m3 socket cap screws - 6mm length
-
-8x m3 grub screws, approx 10mm in length
-
+6x m3 socket cap screws - 15mm length  
+2x m3 socket cap screws - 6mm length  
+8x m3 grub screws, approx 10mm in length  
 37mm geared motor 
 
 
