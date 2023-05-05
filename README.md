@@ -28,6 +28,7 @@ for the geared motor I used the 1000 rpm variant of this one:( https://www.amazo
 
 when assembling, use a 6mm or letter B drill to clean up inside the shaft hole.  it doesn't have to be super tight, but you can't just run a quarter inch drill through it and expect it to work out.  use two of the washers included here to space the bearings from the cam.
 
+older senac machines used 2 different pusher types, more modern ones only use the single pusher.  
 
 the 6x 15mm screws are to hold the motor in  
 the 2x m3 screws are to hold the cam to the motor.  
