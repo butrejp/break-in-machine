@@ -4,9 +4,11 @@ currently exists as a modification to the Senac Breaker, both hotrodding it and 
 this is a modification for the Senac Breaker break in machine allowing up to 2000 actuations per minute. 
 
 The Senac Breaker is available here:
+
 https://www.etsy.com/listing/1208875941/assembled-senac-breaker-72-mechanical
 
 you can see the performance of my modification in this video: 
+
 https://www.youtube.com/watch?v=OjT_l00o8KI
 
 BOM:
