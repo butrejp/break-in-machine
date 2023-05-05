@@ -23,24 +23,17 @@ BOM:
 37mm geared motor 
 
 
-for the geared motor I used the 1000 rpm variant of this one:( https://www.amazon.com/dp/B0745VWJ54 ).  
-you can pick and choose here, but fast is nice.  everything else is original hardware.
+for the geared motor I used the 1000 rpm variant of this one:( https://www.amazon.com/dp/B0745VWJ54 ).  you can pick and choose here, but fast is nice.  everything else is original hardware.
 
-when assembling, use a 6mm or letter B drill to clean up inside the shaft hole.  it doesn't have to be super tight, 
-
-but you can't just run a quarter inch drill through it and expect it to work out.  
+when assembling, use a 6mm or letter B drill to clean up inside the shaft hole.  it doesn't have to be super tight, but you can't just run a quarter inch drill through it and expect it to work out.  
 
 
-the 6x 15mm screws are to hold the motor in
-
-the 2x m3 screws are to hold the cam to the motor.
-
-the 8x m3 grub screws are reinforcement for the pusher plates
+the 6x 15mm screws are to hold the motor in  
+the 2x m3 screws are to hold the cam to the motor.  
+the 8x m3 grub screws are reinforcement for the pusher plates  
 
 
-depending on the environment you're running it in you might want to strap a fan to it.  I went with a 24v 40mm
-
-fan and attached it to the motor with lock wire.
+depending on the environment you're running it in you might want to strap a fan to it.  I went with a 24v 40mmfan and attached it to the motor with lock wire.
 
 
 lets call this beerware for now
