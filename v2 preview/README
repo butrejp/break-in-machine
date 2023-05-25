@@ -3,8 +3,11 @@ still working on this, but the finished product will have a capacity of 128 swit
 I'll post the BOM when it's done, if it gets done
 
 TODO:
-cam
-print
-build
-test
-write bom
+
+  Modeling:
+    cam
+  Other:
+    print
+    build
+    test
+    write instructions and bom
