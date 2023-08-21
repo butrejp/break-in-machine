@@ -38,4 +38,12 @@ the 8x m3 grub screws are reinforcement for the pusher plates
 depending on the environment you're running it in you might want to strap a fan to it.  I went with a 24v 40mmfan and attached it to the motor with lock wire.
 
 
-lets call this beerware for now
+/*
+* ----------------------------------------------------------------------------
+* These files were created by butrejp at github.com, and is 
+* available at < https://github.com/butrejp/break-in-machine >.  
+* As long as you retain this notice you can do whatever you want with these files,
+* including but not limited to modification, distribution, and commercial or non-commercial use of assets.
+* If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
+* ----------------------------------------------------------------------------
+*/
