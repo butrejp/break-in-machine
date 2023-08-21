@@ -40,7 +40,7 @@ depending on the environment you're running it in you might want to strap a fan 
 
 /*
 * ----------------------------------------------------------------------------
-* These files were created by butrejp at github.com, and is 
+* These files were created by butrejp at github.com, and are 
 * available at < https://github.com/butrejp/break-in-machine >.  
 * As long as you retain this notice you can do whatever you want with these files,
 * including but not limited to modification, distribution, and commercial or non-commercial use of assets.
