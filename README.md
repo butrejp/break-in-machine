@@ -16,7 +16,7 @@ BOM:
 6x m3 socket cap screws - 15mm length  
 2x m3 socket cap screws - 6mm length  
 8x m3 grub screws, approx 10mm in length  
-37mm geared motor 
+37mm geared motor  
 2x washers (included)  
 4x pusher plates (included)  
 1x motor plate (included)  
